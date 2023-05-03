@@ -11,3 +11,7 @@ h1 {
     width: 80%;
     text-align: center;
 }
+
+.clickable {
+    cursor: hand;
+}
